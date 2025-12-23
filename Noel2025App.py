@@ -57,7 +57,7 @@ if "messages" not in st.session_state:
     # On ajoute le system prompt (caché) pour conditionner l'IA
     st.session_state.messages.append({"role": "system", "content": system_prompt})
     # Premier message visible
-    st.session_state.messages.append({"role": "assistant", "content": "Connexion établie... 📡 Identification : Agente Julianne. Ça fait plaisir de pouvoir enfin vous contacter, de façon anonyme et encryptée, à travers ce terminal de mission. Je dois vous confier une mission ultra, ultra importante. Confirmez-vous la réception de mes messages ?"})
+    st.session_state.messages.append({"role": "assistant", "content": "Connexion établie... 📡 Identification : Agente Julianne. Agente Julianne, ça fait plaisir de pouvoir enfin vous contacter, de façon anonyme et encryptée, à travers ce terminal de mission. Je dois vous confier une mission ultra, ultra importante. Confirmez-vous la réception de mes messages ?"})
 
 # 5. Affichage de la conversation (On cache le system prompt)
 for message in st.session_state.messages:
