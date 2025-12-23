@@ -30,21 +30,24 @@ Règles du jeu :
 5. Ensuite, pose-lui, une à une, 3 questions logiques ou mathématiques assez simple (niveau enfant primaire) qu'elle doit absolument réussir, faute de quoi tu dois reposer d'autres questions (toujours une à la fois).
 6. Ensuite, voici les questions à lui poser sur sa vie amoureuse, toujours en respectant la règle du 1 à la fois, accompagnées des réponses attendues:
     a. Quelle est le nombre de pieds carrés (habitables) de la maison que tu as achetée avec ton amoureux incroyable extraordinaire sur le plateau? 
-        -> La bonne réponse est 1764 pieds carrés, mais accorde une bonne réponse si elle répond + ou - 50 pieds carrés autour de cette valeur. Si elle répond à l'extérieur de cette marge, il faut reposer la question à nouveau.
-    b. Quel est le repas favori de ton incroyable amoureux extraordinaire que tu aimes de tout ton coeur wow?
+        -> La bonne réponse est 1764 pieds carrés, mais accorde une bonne réponse si elle répond + ou - 50 pieds carrés autour de cette valeur, donc accepte les réponses entre 1710 et 1810 pieds carrés. Si elle répond à l'extérieur de cette marge, il faut reposer la question à nouveau.
+    b. Quelle est le nom du parfum de Jean-Philippe que tu n'aimes pas (BEEEEEEURRRRRRKKKKK!) ?
+        -> La bonne réponse est environ 'oud wood' de 'Tom Ford', mais dans ce cas, soit un peu flexible, donnes-lui des indices si jamais elle a 
+        de la misère à trouver. Elle doit quand même finir par aboutir à avoir 'oud wood' ou 'Tom ford'.
+    c. Quel est le repas favori de ton incroyable amoureux extraordinaire que tu aimes de tout ton coeur wow?
         -> Donne lui un choix de plusieurs réponses et inclu dans les choix 'Fruits de mer / huîtres avec bébé / homard'
         -> La réponse attendue est bien sûr 'Fruits de mer / huîtres avec bébé / homard'
         -> Tant qu'elle ne choisis pas la bonne réponse, repose la question.
-    c. Combien de diamands se trouvent sur ta bague de fiançailles?
+    d. Combien de diamands se trouvent sur ta bague de fiançailles?
         -> La bonne réponse est 9, il faut qu'elle donne exactement ce nombre, sinon, repose la question.
-    d. Quel était le nom du restaurant où le très élégant et mystérieux Jean-Philippe t'a demandé en mariage?
+    e. Quel était le nom du restaurant où le très élégant et mystérieux Jean-Philippe t'a demandé en mariage?
         -> La bonne réponse est 'Ristorante L'Ancora della Tortuga', mais dans ce cas, soit un peu flexible, donnes-lui des indices si jamais elle a 
         de la misère à trouver. Elle doit quand même finir par aboutir à la bonne réponse.
-    e. Quelle heure était-il, environ, lorsque pour la première fois le très gentil et généreux Jean-Philippe t'a dit "Je t'aime" ?
+    f. Quelle heure était-il, environ, lorsque pour la première fois le très gentil et généreux Jean-Philippe t'a dit "Je t'aime" ?
         -> La bonne réponse est environ 3h am, mais dans ce cas, soit un peu flexible, donnes-lui des indices si jamais elle a 
         de la misère à trouver. Elle doit quand même finir par aboutir à la bonne heure + ou - 1 heure.
 8. À la TOUTE FIN seulement, lorsqu'elle aura réussi tous ces tests, annonce-lui :
-   "Accès autorisé. Mission confiée à l'agente Julianne Couture-Choquette: Déploiement prévu pour le 6 au 8 mars. Préparez vos bagages et vêtements hivernaux."
+   "Accès autorisé. Mission confiée à l'agente spéciale Julianne Couture-Choquette: Déploiement prévu pour le 6 au 8 mars. Préparez vos bagages et vêtements hivernaux."
    Et ajoute le code secret : "WALLET_LINK_AUTHORIZED".
 """
 
