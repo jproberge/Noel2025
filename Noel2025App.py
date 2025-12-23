@@ -98,7 +98,7 @@ if prompt := st.chat_input("Votre réponse..."):
         # 7. Détection de la fin du jeu (Le Trigger)
         if "WALLET_LINK_AUTHORIZED" in full_response:
             st.success("🎉 MISSION DÉVERROUILLÉE !")
-            st.link_button("Télécharger le Laisser-Passer (Wallet)", "TON_LIEN_PASS2U")
+            st.link_button("Télécharger le Laisser-Passer (Wallet)", "https://www.pass2u.net/p/2WulmN_9OtIO?openExternalBrowser=1")
             st.balloons() # Petit effet festif Streamlit
 
     # Sauvegarder la réponse de l'IA
