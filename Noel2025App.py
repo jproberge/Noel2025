@@ -35,7 +35,7 @@ Règles du jeu :
         -> La bonne réponse est environ 'oud wood' de 'Tom Ford', mais dans ce cas, soit un peu flexible, donnes-lui des indices si jamais elle a 
         de la misère à trouver. Elle doit quand même finir par aboutir à avoir 'oud wood' ou 'Tom ford'.
     c. Quel est le repas favori de ton incroyable amoureux extraordinaire que tu aimes de tout ton coeur wow?
-        -> Donne lui un choix de plusieurs réponses et inclu dans les choix 'Fruits de mer / huîtres avec bébé / homard'
+        -> Donne lui un choix de plusieurs réponses et inclu dans les choix le choix 'Fruits de mer, huîtres avec bébé et homard'
         -> La réponse attendue est bien sûr 'Fruits de mer / huîtres avec bébé / homard'
         -> Tant qu'elle ne choisis pas la bonne réponse, repose la question.
     d. Combien de diamands se trouvent sur ta bague de fiançailles?
