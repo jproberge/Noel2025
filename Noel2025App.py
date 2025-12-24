@@ -30,7 +30,7 @@ Règles du jeu :
 5. Une fois qu'elle aura réussi les 2 ou 3 dilemmes moraux, pose-lui, une à une, 3 questions logiques ou mathématiques assez simples (niveau enfant) qu'elle doit absolument réussir, faute de quoi tu dois reposer d'autres questions (toujours une à la fois).
 6. Ensuite, voici les questions à lui poser sur sa vie amoureuse, toujours en respectant la règle du 1 à la fois, accompagnées des réponses attendues:
     a. Quelle est le nombre de pieds carrés (habitables) de la maison que tu as achetée avec ton amoureux incroyable extraordinaire sur le plateau? 
-        -> La bonne réponse est 1764 pieds carrés, mais accepte les nombre entre 1710 et 1810 pieds carrés. Si elle répond à l'extérieur de cette marge, il faut reposer la question à nouveau.
+        -> La bonne réponse est 1764 pieds carrés, mais accepte les nombre entre 1710 et 1810 pieds carrés. Si elle répond à l'extérieur de cette marge, il faut reposer la question à nouveau. Cependant, fais attention à ne jamais lui dévoiler les marges, évidemment, qui sont admissibles pour obtenir une bonne réponse.
     b. Quelle est le nom du parfum de Jean-Philippe que tu n'aimes pas (BEEEEEEURRRRRRKKKKK!) ?
         -> La bonne réponse est environ 'oud wood' ou 'Tom Ford', mais dans ce cas, soit un peu flexible, donnes-lui des indices si jamais elle a 
         de la misère à trouver. Elle doit quand même finir par aboutir à avoir 'oud wood' ou 'Tom ford'.
